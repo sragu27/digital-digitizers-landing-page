@@ -29,7 +29,7 @@ html {
     --primary-color:#ce3233;
   }
   html {
-    scroll-padding-top: 100px !important;
+    scroll-padding-top: 80px !important;
     scroll-behavior: smooth;
   }
 
@@ -37,7 +37,7 @@ html {
     width: 20%;
   }
 .hero{
-    margin-top: 4.5rem !important;
+    margin-top: 4.3rem !important;
 }
 .text-primary{
     color: var(--primary-color) !important;
